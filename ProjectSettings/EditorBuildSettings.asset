@@ -17,9 +17,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Basic_Face_Animation.unity
     guid: b9d5d5c0dc57447d2acba805a442fdd9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Icecream_Filter.unity
     guid: 21c474656eca346b4a60d60e27144ea5
+  - enabled: 1
+    path: Assets/Scenes/Glasses_Interactive.unity
+    guid: b092c9d1c19ab4c4ea5b7ac4af4c6050
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
